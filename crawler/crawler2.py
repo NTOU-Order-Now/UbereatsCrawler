@@ -16,8 +16,16 @@ def scrape_store(store_info):
         })
         
         # 前往首頁
-        page.goto(home_page)
-        page.wait_for_selector('h3', timeout=10000)
+        try:
+            page.goto(home_page)
+            page.wait_for_selector('h3', timeout=10000)
+        except TimeoutError:
+            print(f"網頁載入超時，跳過: {home_page}")
+            return None
+        except Exception as e:
+            print(f"發生錯誤: {e}")
+            print(f"跳過網址: {home_page}")
+            return None
         
         try:
             # 跳過特定商店
