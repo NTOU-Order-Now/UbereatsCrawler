@@ -4,7 +4,7 @@
         "description": "使用台灣在地黃豆研磨，天然純淨，香醇濃郁。大杯。熱量: 180大卡。",
         "price": 30.0,
         "category": "飲品",
-        "picture": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -48,7 +48,7 @@
         "description": "採用阿薩姆紅茶，香醇回甘。大杯。總糖量: 15克, 總熱量: 60大卡。",
         "price": 25.0,
         "category": "飲品",
-        "picture": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -91,7 +91,7 @@
         "description": "使用中深焙咖啡豆，口感醇厚。大杯。總糖量: 0克, 總熱量: 5大卡。",
         "price": 45.0,
         "category": "飲品",
-        "picture": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -133,7 +133,7 @@
         "description": "使用阿薩姆紅茶配上香醇鮮奶。大杯。總糖量: 25克, 總熱量: 180大卡。",
         "price": 35.0,
         "category": "飲品",
-        "picture": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -177,7 +177,7 @@
         "description": "使用新鮮柳橙現榨，酸甜清爽。大杯。總糖量: 22克, 總熱量: 120大卡。",
         "price": 50.0,
         "category": "飲品",
-        "picture": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",

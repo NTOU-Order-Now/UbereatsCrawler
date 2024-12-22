@@ -4,7 +4,7 @@
         "description": "大杯。總糖量: 0克, 總熱量: 15大卡。使用巴西阿拉比卡咖啡豆，濃郁香醇，低酸度。",
         "price": 60.0,
         "category": "咖啡系列",
-        "picture": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -47,7 +47,7 @@
         "description": "大杯。總糖量: 25克, 總熱量: 180大卡。義式濃縮咖啡搭配澳洲進口鮮奶，香醇滑順。",
         "price": 75.0,
         "category": "咖啡系列",
-        "picture": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -92,7 +92,7 @@
         "description": "大杯。總糖量: 38克, 總熱量: 250大卡。比利時巧克力醬搭配義式濃縮咖啡，香濃可可風味。",
         "price": 80.0,
         "category": "咖啡系列",
-        "picture": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -136,7 +136,7 @@
         "description": "大杯。總糖量: 42克, 總熱量: 280大卡。香濃焦糖醬搭配espresso與細緻奶泡，層次豐富。",
         "price": 85.0,
         "category": "咖啡系列",
-        "picture": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -180,7 +180,7 @@
         "description": "大杯。總糖量: 15克, 總熱量: 120大卡。精選咖啡豆以冷萃工法製成，滑順無酸澀。",
         "price": 70.0,
         "category": "咖啡系列",
-        "picture": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",

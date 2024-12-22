@@ -189,7 +189,7 @@ for i in range(0, 30):
     [token, storeId] = login(set_login_data('customer', i))
     
     # add review to store
-    number = random.randint(10, 30)
+    number = random.randint(15, 40)
     start = random.randint(0, 49)
     for j in range(number):
         now = (start + j) % 50

@@ -4,7 +4,7 @@
         "description": "經典可口可樂，清涼暢快。大杯。總糖量: 39克, 總熱量: 140大卡。",
         "price": 35.0,
         "category": "碳酸飲料系列",
-        "picture": "https://images.pexels.com/photos/2983100/pexels-photo-2983100.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/2983100/pexels-photo-2983100.jpeg",
         "dishAttributes": [
             {
                 "name": "容量選擇",
@@ -36,7 +36,7 @@
         "description": "清新檸檬口味，冰涼清爽。大杯。總糖量: 37克, 總熱量: 130大卡。",
         "price": 35.0,
         "category": "碳酸飲料系列",
-        "picture": "https://images.pexels.com/photos/2983100/pexels-photo-2983100.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/2983100/pexels-photo-2983100.jpeg",
         "dishAttributes": [
             {
                 "name": "容量選擇",
@@ -68,7 +68,7 @@
         "description": "香甜橘子口味，清涼解渴。大杯。總糖量: 41克, 總熱量: 150大卡。",
         "price": 35.0,
         "category": "碳酸飲料系列",
-        "picture": "https://images.pexels.com/photos/2983100/pexels-photo-2983100.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/2983100/pexels-photo-2983100.jpeg",
         "dishAttributes": [
             {
                 "name": "容量選擇",

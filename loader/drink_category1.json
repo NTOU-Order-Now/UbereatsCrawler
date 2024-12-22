@@ -4,7 +4,7 @@
         "description": "大杯。總糖量: 65克, 總熱量: 650大卡。使用斯里蘭卡進口錫蘭紅茶，搭配進口奶精調製，香醇濃郁。",
         "price": 55.0,
         "category": "奶茶系列",
-        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -52,7 +52,7 @@
         "description": "大杯。總糖量: 68克, 總熱量: 700大卡。使用台灣在地黑糖，搭配香Q珍珠與純鮮奶，口感層次豐富。",
         "price": 65.0,
         "category": "奶茶系列",
-        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -96,7 +96,7 @@
         "description": "大杯。總糖量: 55克, 總熱量: 580大卡。使用日本京都抹茶粉，搭配澳洲進口鮮奶，清新回甘。",
         "price": 70.0,
         "category": "奶茶系列",
-        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -143,7 +143,7 @@
         "description": "大杯。總糖量: 70克, 總熱量: 680大卡。使用泰國進口茶葉，搭配特調奶精，香醇濃郁。",
         "price": 60.0,
         "category": "奶茶系列",
-        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -189,7 +189,7 @@
         "description": "大杯。總糖量: 58克, 總熱量: 580大卡。採用日月潭紅茶搭配澳洲進口鮮奶，香醇順口。",
         "price": 65.0,
         "category": "奶茶系列",
-        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",

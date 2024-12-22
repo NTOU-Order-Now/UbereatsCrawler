@@ -4,7 +4,7 @@
         "description": "使用特製蛋餅皮，搭配新鮮雞蛋，簡單即是美味。熱量: 220大卡。",
         "price": 35.0,
         "category": "蛋餅系列",
-        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg",
         "dishAttributes": [
             {
                 "name": "蛋餅皮選擇",
@@ -45,7 +45,7 @@
         "description": "香酥培根搭配新鮮雞蛋，鹹香美味。熱量: 320大卡。",
         "price": 45.0,
         "category": "蛋餅系列",
-        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg",
         "dishAttributes": [
             {
                 "name": "蛋餅皮選擇",
@@ -86,7 +86,7 @@
         "description": "濃郁起司配上新鮮雞蛋，牽絲起司超滿足。熱量: 300大卡。",
         "price": 45.0,
         "category": "蛋餅系列",
-        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg",
         "dishAttributes": [
             {
                 "name": "蛋餅皮選擇",
@@ -127,7 +127,7 @@
         "description": "清甜玉米粒搭配新鮮雞蛋，營養美味。熱量: 280大卡。",
         "price": 40.0,
         "category": "蛋餅系列",
-        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg",
         "dishAttributes": [
             {
                 "name": "蛋餅皮選擇",
@@ -168,7 +168,7 @@
         "description": "特製豬肉鬆搭配新鮮雞蛋，香鬆可口。熱量: 310大卡。",
         "price": 45.0,
         "category": "蛋餅系列",
-        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg",
         "dishAttributes": [
             {
                 "name": "蛋餅皮選擇",

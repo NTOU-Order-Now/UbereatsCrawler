@@ -4,7 +4,7 @@
         "description": "使用台灣土雞腿，特製醃料醃製24小時，金黃酥脆，多汁不乾柴。份量: 2塊雞腿。熱量: 680大卡。",
         "price": 150.0,
         "category": "炸雞系列",
-        "picture": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg",
         "dishAttributes": [
             {
                 "name": "辣度選擇",
@@ -49,7 +49,7 @@
         "description": "精選鮮嫩雞翅，特製胡椒粉調味，外酥內嫩。份量: 6塊翅小腿。熱量: 520大卡。",
         "price": 140.0,
         "category": "炸雞系列",
-        "picture": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg",
         "dishAttributes": [
             {
                 "name": "辣度選擇",
@@ -94,7 +94,7 @@
         "description": "使用純雞胸肉製成，口感酥脆，配上特製醬料更美味。份量: 12塊雞米花。熱量: 450大卡。",
         "price": 120.0,
         "category": "炸雞系列",
-        "picture": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg",
         "dishAttributes": [
             {
                 "name": "辣度選擇",

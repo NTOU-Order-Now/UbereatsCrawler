@@ -4,7 +4,7 @@
         "description": "大杯。總糖量: 45克, 總熱量: 320大卡。精選水蜜桃果粒搭配清爽綠茶，清甜順口。",
         "price": 65.0,
         "category": "果茶系列",
-        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -49,7 +49,7 @@
         "description": "大杯。總糖量: 40克, 總熱量: 280大卡。新鮮柚子原汁搭配清香綠茶，微酸清爽。",
         "price": 60.0,
         "category": "果茶系列",
-        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -95,7 +95,7 @@
         "description": "大杯。總糖量: 42克, 總熱量: 260大卡。新鮮檸檬片與清香青茶調製，酸甜清爽。",
         "price": 55.0,
         "category": "果茶系列",
-        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",
@@ -140,7 +140,7 @@
         "description": "大杯。總糖量: 48克, 總熱量: 300大卡。新鮮百香果榨汁，搭配清爽綠茶，酸甜可口。",
         "price": 65.0,
         "category": "果茶系列",
-        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg",
         "dishAttributes": [
             {
                 "name": "溫度選擇",

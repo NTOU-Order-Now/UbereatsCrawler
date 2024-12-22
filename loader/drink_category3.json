@@ -4,7 +4,7 @@
         "description": "大杯。總糖量: 52克, 總熱量: 420大卡。使用日本京都抹茶粉，搭配香草冰淇淋製成，濃郁滑順。",
         "price": 85.0,
         "category": "冰沙系列",
-        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg??auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg",
         "dishAttributes": [
             {
                 "name": "冰量選擇",
@@ -45,7 +45,7 @@
         "description": "大杯。總糖量: 58克, 總熱量: 480大卡。比利時進口巧克力，搭配香草冰淇淋，香濃順滑。",
         "price": 80.0,
         "category": "冰沙系列",
-        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg??auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg",
         "dishAttributes": [
             {
                 "name": "冰量選擇",
@@ -86,7 +86,7 @@
         "description": "大杯。總糖量: 50克, 總熱量: 380大卡。使用台灣愛文芒果，搭配香草冰淇淋，清甜爽口。",
         "price": 90.0,
         "category": "冰沙系列",
-        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg??auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg",
         "dishAttributes": [
             {
                 "name": "冰量選擇",
@@ -127,7 +127,7 @@
         "description": "大杯。總糖量: 45克, 總熱量: 360大卡。新鮮草莓果泥搭配希臘優格，清爽不膩。",
         "price": 85.0,
         "category": "冰沙系列",
-        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg??auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg",
         "dishAttributes": [
             {
                 "name": "冰量選擇",

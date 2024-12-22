@@ -4,7 +4,7 @@
         "description": "經典夏威夷風味，使用義大利進口莫札瑞拉起司，搭配特選火腿與鳳梨。9吋。熱量: 1200大卡。",
         "price": 260.0,
         "category": "披薩系列",
-        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
         "dishAttributes": [
             {
                 "name": "尺寸選擇",
@@ -47,7 +47,7 @@
         "description": "義式經典，使用新鮮蕃茄、羅勒葉與水牛莫札瑞拉起司。9吋。熱量: 980大卡。",
         "price": 280.0,
         "category": "披薩系列",
-        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
         "dishAttributes": [
             {
                 "name": "尺寸選擇",
@@ -89,7 +89,7 @@
         "description": "豐富海鮮配料，包含蝦仁、魷魚、淡菜，搭配特製白醬。9吋。熱量: 1350大卡。",
         "price": 320.0,
         "category": "披薩系列",
-        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
         "dishAttributes": [
             {
                 "name": "尺寸選擇",
@@ -132,7 +132,7 @@
         "description": "使用進口義式臘腸，搭配蘑菇、青椒與莫札瑞拉起司。9吋。熱量: 1280大卡。",
         "price": 290.0,
         "category": "披薩系列",
-        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
         "dishAttributes": [
             {
                 "name": "尺寸選擇",
@@ -175,7 +175,7 @@
         "description": "豪華起司組合，包含莫札瑞拉、高達、帕瑪森、藍紋起司。9吋。熱量: 1400大卡。",
         "price": 300.0,
         "category": "披薩系列",
-        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg",
         "dishAttributes": [
             {
                 "name": "尺寸選擇",

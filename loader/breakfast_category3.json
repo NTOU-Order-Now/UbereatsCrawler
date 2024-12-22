@@ -4,7 +4,7 @@
         "description": "外皮金黃酥脆的燒餅，搭配香酥的油條，經典美味。熱量: 350大卡。",
         "price": 45.0,
         "category": "中式餅類",
-        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg",
         "dishAttributes": [
             {
                 "name": "燒餅口味",
@@ -45,7 +45,7 @@
         "description": "手工揉製的餅皮，搭配新鮮蔥花，層次豐富。熱量: 320大卡。",
         "price": 35.0,
         "category": "中式餅類",
-        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg",
         "dishAttributes": [
             {
                 "name": "口味選擇",
@@ -87,7 +87,7 @@
         "description": "新鮮韭菜搭配雞蛋，外皮酥脆，內餡香嫩。熱量: 280大卡。",
         "price": 40.0,
         "category": "中式餅類",
-        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg",
         "dishAttributes": [
             {
                 "name": "口味選擇",
@@ -129,7 +129,7 @@
         "description": "手工製作的餅皮，包裹清甜蘿蔔絲，外酥內軟。熱量: 260大卡。",
         "price": 35.0,
         "category": "中式餅類",
-        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg",
         "dishAttributes": [
             {
                 "name": "口味選擇",
@@ -171,7 +171,7 @@
         "description": "特製咖哩餡料，外皮酥脆，風味獨特。熱量: 300大卡。",
         "price": 45.0,
         "category": "中式餅類",
-        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg",
         "dishAttributes": [
             {
                 "name": "口味選擇",

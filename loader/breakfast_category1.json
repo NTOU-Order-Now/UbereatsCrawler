@@ -4,7 +4,7 @@
         "description": "使用日本進口生吐司，搭配香濃花生醬，口感綿密香甜。熱量: 320大卡。",
         "price": 45.0,
         "category": "吐司系列",
-        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg",
         "dishAttributes": [
             {
                 "name": "吐司熟度",
@@ -35,7 +35,7 @@
         "description": "香濃奶油搭配細糖，外酥內軟。熱量: 280大卡。",
         "price": 35.0,
         "category": "吐司系列",
-        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg",
         "dishAttributes": [
             {
                 "name": "吐司熟度",
@@ -66,7 +66,7 @@
         "description": "特製蒜味奶酥醬，搭配香烤厚片吐司。熱量: 350大卡。",
         "price": 50.0,
         "category": "吐司系列",
-        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg",
         "dishAttributes": [
             {
                 "name": "吐司熟度",
@@ -97,7 +97,7 @@
         "description": "使用比利時進口巧克力醬，香濃可可風味。熱量: 380大卡。",
         "price": 45.0,
         "category": "吐司系列",
-        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg",
         "dishAttributes": [
             {
                 "name": "吐司熟度",
@@ -128,7 +128,7 @@
         "description": "特製豬肉鬆搭配奶酥醬，鹹甜適中。熱量: 360大卡。",
         "price": 55.0,
         "category": "吐司系列",
-        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&h=272&w=181",
+        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg",
         "dishAttributes": [
             {
                 "name": "吐司熟度",
