@@ -1,0 +1,356 @@
+[
+    {
+        "name": "早點來 八斗子店",
+        "description": "位於基隆的早點來八斗子店，是一家專門提供早午餐的餐廳，評價高達4.95星。這裡的熱門菜單包括鐵板麵套餐、肉醬烏龍麵、炒泡麵以及各式奶茶，尤其是大杯熱奶茶與大杯冰鮮奶茶常被顧客一同點選。此外，店內亦提供多種小點如蘿蔔糕、小雞球與各式三明治，適合喜愛豐富早餐選擇的顧客。",
+        "address": "基隆市中正區調和街2號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/ecdace63fbea32d31b520c573774ed88/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+    },
+    {
+        "name": "康堡｜康茶",
+        "description": "",
+        "address": "基隆市仁愛區仁二路109號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/46e755598b508b3f7a425c2c9b9e8a53/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "深夜未歸 早餐 中餐 晚餐 宵夜 基隆店",
+        "description": "",
+        "address": "基隆市仁愛區愛三路53號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/342e83f0875b39b16beaeaf636094ce7/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "HiClub簡餐速食館 基隆站前店",
+        "description": "",
+        "address": "基隆市仁愛區孝四路31號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/67afb8d25e2cea2438847a631055ca6e/30be7d11a3ed6f6183354d1933fbb6c7.jpeg"
+    },
+    {
+        "name": "復興蔬果行仁愛店",
+        "description": "位於基隆的復興蔬果行仁愛店是一家評價為4.67星的甜點店。此店晚間時段最受歡迎，顧客常點選的食品包括草莓、香蕉、芭樂和韓國水梨。此外，美國富士蘋果和芭樂是顧客常一起點購的組合。店內亦提供種類多樣的食品，如節瓜、大富士蘋果、松露白醬、番茄肉醬及各式調味料。",
+        "address": "基隆市仁愛區仁五路8號Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/21afdc8415b0f1e1e03cbbd15529d76c/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "魯平豆漿店",
+        "description": "位於基隆的魯平豆漿店，是一家以早餐和早午餐為主的餐廳，擁有4.9星的顧客評價。此店人氣選項包括豆漿、燒餅油條、米漿和飯糰蔥蛋，顧客常將豆漿和燒餅油條一起點餐。魯平豆漿店提供多種飯糰選擇，如飯糰蔥蛋、飯糰蛋等，同時也供應多樣的燒餅類和蛋類早餐，如燒餅蛋餅和蔥蛋。",
+        "address": "Xiao 3rd Rd. 13",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/a4238200d7bc6c2f161e5ad557d8ac66/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "阿信豆漿",
+        "description": "位於基隆的阿信豆漿，是一家提供豐富早午餐選擇的餐廳，深受顧客好評，平均評分為4.87星。這裡的甜豆漿和燒餅夾油條極具人氣，顧客常將這兩項一起點餐。除了上述美食，餐廳還提供各式飯糰如白米飯糰夾蛋及紫米飯糰夾蛋，以及蛋餅和米漿。",
+        "address": "Xiao 3rd Road 75",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/9a6121bf92e0bd9ec69db08b33a4e8c0/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "藍琪胖水餃",
+        "description": "位於基隆的藍琪胖水餃，是一家專門提供多種水餃和湯品的餐廳，評價為4.64星。此店深受顧客喜愛的美食包括綜合蝦仁水餃、高麗菜水餃、酸辣湯和清燉牛肉湯。顧客常一同點選綜合蝦仁水餃和酸辣湯。除了水餃，還有鮮蝦餛飩麵和什錦海鮮麵等麵食選擇，適合深夜食客前來品嘗。",
+        "address": "No.179,Zhongzheng Rd.",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/b67215ac8824274d4a8c618a0b7114da/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "呷尚寶早餐店 東岸店",
+        "description": "位於基隆的呷尚寶早餐店 東岸店  是一家評價為4.84星的早餐與早午餐專賣店，以提供豐盛的套餐和熱門飲品著稱。這裡的超人大能量套餐和紅茶拿鐵深受顧客喜愛，常見的搭配是紅茶和蛋沙拉蛋餅。除了經典的套餐，店內還有各式烤吐司和鐵板麵，如勁辣雞腿蛋烤吐司和黑胡椒鐵板麵，提供多樣化的選擇滿足不同顧客的需求。",
+        "address": "基隆市仁愛區孝四路24號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/1afe1543864f2b0296593ecaba2fb4ae/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "戴著走 早餐店",
+        "description": "位於基隆的戴著走早餐店，提供豐富的早餐和早午餐選擇，包括各式吐司（如巧克力吐司、草莓吐司）、香酥可頌（如薯泥香酥可頌、起司香酥可頌）以及多樣的蛋餅（如麻油九層塔蛋餅、蔬菜多多蛋餅）。此外，店內的皇家奶茶、戴戴香傳鍋燒麵、紅茶和鮮奶茶也是顧客的熱門選擇，常見顧客將紅茶與戴戴香傳鍋燒麵一同點餐。",
+        "address": "基隆市安樂區安一路227號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/ce06730085c8fc7efb1c8c5e565bb32d/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "Oec雞塊麵線 基隆店",
+        "description": "位於基隆的Oec雞塊麵線基隆店，是一家專門提供台灣傳統小吃的餐廳，深受顧客喜愛的菜品包括綜合麵線組合餐和雞塊麵線。顧客經常點椒鹽雞塊與其他菜品一起享用。此店擁有4.86星的高評價，早晨是訂購高峰期。除了人氣的雞塊麵線，還有酥炸基隆甜不辣和香Q芋泥球等特色小吃可供選擇。",
+        "address": "Mai Jin Rd. 456",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/0c0667029a78695777a3fa322f77b7ed/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "五點鐘漢堡 基隆總店",
+        "description": "位於中正的五點鐘漢堡基隆總店，是一家提供早午餐與多樣化西式餐點的餐廳，評價為4.86星。此店深受顧客喜愛的美食包括招牌紅茶、經典奶茶、義大利麵套餐及卡啦雞腿堡餐，而大杯活動招牌紅茶與波隆那肉醬義大利麵是顧客常一同點選的組合。其菜單亦涵蓋了豐富的選擋，如各式大拼盤、生菜沙拉、多種義大利麵及鐵板麵，以及多款漢堡和精選飲料。",
+        "address": "Bei Ning Rd. 29-1",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/7998ac3c376d9e7f03ad4320c94a8ef0/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "茉莉餐廳 Jasmine Resto",
+        "description": "位於基隆的茉莉餐廳，是一家專門提供現泡茶飲和創意料理的泡泡茶店。該餐廳以其獨特的法式茄汁風味牛肉飯、印度咖哩風味雞肉飯及各式手工厚切吐司聞名，常見的飲品包括冰法國巧克力牛奶和熱特色招牌香草奶茶。客戶評價為4.79星，深受喜愛的菜品還有加大加飯。夜晚為最熱門的訂購時段，展現出其在當地夜生活中的受歡迎程度。",
+        "address": "仁一路7巷81號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/38ab2e9a16995e72e606be318b4f1a7a/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "安樓咖啡Enzo Cafe",
+        "description": "位於基隆的安樓咖啡Enzo Cafe，是一家評價為5.0星的咖啡與茶飲店。這裡的人氣品項包括錫蘭鮮奶茶、拿鐵咖啡、草莓戚風蛋糕以及時飴焦糖海鹽千層蛋糕。顧客常一起點購的是草莓戚風蛋糕和雙層鐵觀音巴斯克乳酪。除了咖啡和茶，店內亦提供多樣化的甜點如焦糖蘋果紅茶達克瓦茲與伯爵茶布丁，並在中午時分最為熱門。",
+        "address": "仁三路11-3號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/2ab3086b13d40feebe84bd3109b23ec2/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "永亨無骨炸雞 和平店",
+        "description": "位於中正的永亨無骨炸雞和平店，是一家快餐式餐廳，提供各式台式炸物美食。顧客晚間點餐最為熱門，其中雞排、塩酥雞和魷魚頭深受喜愛。此外，顧客常將薯條和雞排一同點餐。該店亦提供多樣的炸物選擇，如雞皮、甜不辣和雞蛋豆腐等小吃。其評價為4.4星。",
+        "address": "基隆市中正區和一路106號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/c3da9ebd402e856e73c81612614481d0/c73ecc27d2a9eaa735b1ee95304ba588.jpeg"
+    },
+    {
+        "name": "黃記古早味紅茶",
+        "description": "位於基隆的黃記古早味紅茶，是一家專售珍珠奶茶的店鋪，評價為5.0星。此店的招牌飲料包括古早味紅茶、鮮奶茶以及冬瓜檸檬，顧客常將古早味紅茶和鮮奶茶一同訂購。此外，內湖737豬大郎(豬血糕)也是當地的人氣選擇之一。",
+        "address": "基隆市仁愛區愛二路2-2號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/082b0828e69a63919f44ca2a8ac564aa/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+    },
+    {
+        "name": "有大機芭",
+        "description": "位於基隆的有大機芭是一家專賣甜點的店鋪，以其各式芭樂甜點聞名，其中甘草芭樂和檸檬芭樂尤為受到顧客的喜愛。該店在晚間的訂單量最高，顧客評價高達4.86星。此外，顧客常一同點選甘草芭樂和檸檬芭樂。",
+        "address": "Ai 4th Rd. 30",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/990432fa4240bb4fafab1dd0158bb1cb/c73ecc27d2a9eaa735b1ee95304ba588.jpeg"
+    },
+    {
+        "name": "魷魚妹妹 基隆仁三店",
+        "description": "",
+        "address": "基隆市仁愛區仁三路25號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/7b980bff1b9a528353f3faae2c3ab96c/30be7d11a3ed6f6183354d1933fbb6c7.jpeg"
+    },
+    {
+        "name": "一品早午餐 鐵板燒料理",
+        "description": "",
+        "address": "基隆市中山區中山二路37號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/c8883c4c6ee63f80e4af41c2f78a5cbe/c9252e6c6cd289c588c3381bc77b1dfc.jpeg"
+    },
+    {
+        "name": "QQ堡早餐店",
+        "description": "位於基隆的QQ堡早餐店，是一家評價為4.83星的早午餐專賣店。本店以豐富的蛋餅選擇如肉鬆蛋餅和鮪魚蛋餅聞名，同時提供多種飲品如奶茶和紅茶。顧客經常點選的鐵板麵套餐和人氣蛋餅套餐深受喜愛，而烤奶酥與薯餅蛋餅也是常被一同訂購的組合。此外，店內亦提供多樣的鐵板麵和果醬吐司選項，如義大利肉醬麵和烤奶酥。",
+        "address": "2-5, Lane 234, Xin 2nd Rd.",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/db4ac76d3169694fa578b208f3614dc4/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "麥味登 基隆海大OA店",
+        "description": "位於中正的麥味登基隆海大OA店是一家提供豐富早午餐選擇的餐廳，以漢堡和輕食聞名，其中包括超厚雞肉起司滿分堡、雞塊、冰奶茶大杯和黑胡椒鐵板麵等熱門餐點。顧客常搭配訂購泰式卡滋脆雞特餐和熱紅茶大杯。此外，餐廳也提供各式各樣的湯種麵包和可頌，如巧克力湯種和卡滋雞腿可頌。評價為3.7星，是個適合大家聚餐的選擇。",
+        "address": "基隆市中正區中正路772號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/d7fcd323d89e17ce5bda357c2e8f8c81/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "麥當勞 基隆義六 McDonald's S566",
+        "description": "",
+        "address": "基隆市信義區信一路91號1樓 基隆市",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/af03da5cd6baecd0aff5ba1265c8b36d/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "安一路巨林美而美",
+        "description": "",
+        "address": "An 1st Road Lane 278 Alley 122 1",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/9ec470d139d972cb2767994d0e7b15f5/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "胡椒香塩酥雞 基隆精一店",
+        "description": "位於基隆的胡椒香塩酥雞 基隆精一店，是一家評價為4.7星的台灣特色小吃店，以提供各式台式炸物聞名。此店熱銷的美食包括雞排、鹽酥雞、甜不辣及薯條，顧客常將雞排和甜不辣一起點餐。店內還提供豐富的菜單，如各種肉串、海鮮及蔬菜小吃，深受早晨時段顧客的喜愛。",
+        "address": "Jing 1st Road 2",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/a3fdf5154b54a32098fa84665dddf17a/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "小豬媽碳烤吐司",
+        "description": "位於基隆的小豬媽碳烤吐司，是一家專為早餐和早午餐而設的餐廳，評價高達5.0星。這裡以濃厚奶茶和各式蛋吐司聞名，其中咔拉雞腿蛋吐司和蒜香豬里肌蛋吐司尤為受歡迎，顧客常將濃厚奶茶與咔拉雞腿蛋吐司一同點餐。除了經典的蛋吐司，店內還提供多種鹹甜口味吐司、蛋餅及捲餅。",
+        "address": "No. 121, Zhongshan 1st Road",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/cc8a54c462664a82e8a01e8be5fb9c42/9ba9ffab5f885fc3dac87838b3357014.jpeg"
+    },
+    {
+        "name": "四海一家素食坊",
+        "description": "位於基隆的四海一家素食坊，是一家評價為4.9星的素食餐廳。顧客最愛的時段是早上，這裡的羹湯和煎餃，以及油豆腐（小菜）備受喜愛。煎餃與油豆腐（小菜）常被一同點餐。此外，餐廳還提供豆漿及煎餃套餐和冰奶茶及煎餃套餐等多樣化選擇。",
+        "address": "Ren 5th Road 22",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/dfe17597492dc2e60a2af53fe3c73d65/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "八方雲集 基隆義二店",
+        "description": "位於基隆的八方雲集基隆義二店，是一家專門提供多種餃子的餐廳，深受顧客喜愛的招牌鍋貼和韓式辣味鍋貼以及酸辣湯和玉米濃湯等菜色。晚間是該店最為熱門的時段，顧客評價為4.91星。此外，酸辣湯和招牌鍋貼是常被一起點選的組合。店內亦提供多種湯麵、乾麵及其他小菜，如和風秋葵和豬頭皮等，選擇豐富。",
+        "address": "基隆市中正區義二路19號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/010182be6109b126098186108fa9a95b/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "家弘米粉湯",
+        "description": "位於基隆的家弘米粉湯，是一家專門提供傳統台灣料理的餐廳，評價為4.82星。這裡的米粉湯和油豆腐是顧客點餐時常一起選購的人氣選擇，同時白蘿蔔和土魠魚也深受喜愛。除了主打菜色，餐廳還提供各式小吃如炸蚵仔酥和高麗菜捲，適合午餐時段前來享用。",
+        "address": "Xin 2nd Road 204",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/f8204bdbf61328296f8b8b78a8b7540c/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "昇美早餐屋 基隆孝三店",
+        "description": "位於基隆的昇美早餐屋基隆孝三店，是一家專注於提供豐盛早午餐的餐廳。此店以其招牌火腿蛋三明治及奶茶聞名，顧客經常將招牌火腿蛋三明治和奶茶一起點餐。此外，店內還提供各式吐司如巧克力吐司和草莓吐司，以及多種漢堡和飲品選擇，包括紅茶和阿華田。評價高達4.9星，是當地居民早晨的熱門選擇。",
+        "address": "孝三路67號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/28087e0e581ef1b857e8027ce03460da/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "淓麵線",
+        "description": "位於基隆的淓麵線是一家台灣特色的麵線餐廳，評價高達4.88星。這裡的麵線選擇豐富，尤其受到顧客好評的有大碗蚵+腸+焿、大碗蚵+腸以及大碗全腸。顧客常一起點的組合是小碗清麵線及大碗蚵+腸+焿。早晨是這家餐廳最熱門的訂餐時間，適合想要嘗試地道台灣早餐的食客。",
+        "address": "An 1st Road 169",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/9be08cb590fcdacba3f77aa563619aae/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "S&D咖啡 基隆忠三店",
+        "description": "位於基隆的S&D咖啡基隆忠三店，是一家評價為4.91星的咖啡與茶飲店。這裡以其多樣的飲品選項受到顧客喜愛，特別是鐵觀音拿鐵和精選榛果咖啡。此外，店內也提供如提拉米蘇和各式鬆餅等甜點。顧客常配對法式原味拿鐵冰與法式原味拿鐵熱來享用。晚間是這家店最熱門的訂購時段。",
+        "address": "200台灣基隆市",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/cf2fe9e480ffc542c5bda59446390769/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "Q Burger 早午餐 基隆豐稔店",
+        "description": "",
+        "address": "基隆市中正區豐稔街21號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/18fbff3996cc9e1ce13e7b97c35e3f86/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "北方大陸餅 麥金店",
+        "description": "位於基隆的北方大陸餅樂利店，是一家專門提供早餐和早午餐的餐廳，受到顧客的高度評價，達到4.86星。這裡以大陸餅、手工蛋餅、台式飯糰和蔥酥餅最受歡迎，顧客常常一起點手工蛋餅和大陸餅。價目表中還包括了多樣的台式早餐選擇，如蘿蔔糕、蘿蔔糕套餐，以及各式包子和飲料。",
+        "address": "基隆市安樂區麥金路456號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/90645be8d9255d6580819bc24ee5b43b/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+    },
+    {
+        "name": "晨間廚房 基隆義七店",
+        "description": "",
+        "address": "基隆市信義區義七路28號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/7183b90592b894ccde43023d3e8a1eff/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "成功鵝肉麵食館",
+        "description": "位於基隆的成功鵝肉麵食館，是一家專門提供台灣特色美食的餐廳，評價達4.7星。這裡的鵝油拌飯、麻辣鴨血臭豆腐和滷肉飯深受顧客喜愛，常見顧客選擇招牌鵝肉油麵搭配其他菜品。餐廳供應多樣的拌麵和湯類，如鵝肉乾拌麵系列和招牌鵝肉湯麵系列，還有特色小菜如香蒜豆乾和鯊魚煙。晚間是顧客點餐的高峰時段。",
+        "address": "No. 136, Chenggong 1st Road, Ren’ai District, Keelung City, Taiwan",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/3b0f902e5cb1122c882ca849ec87e1fa/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "品昶手工小籠包",
+        "description": "位於基隆的品昶手工小籠包，是一家專注於台灣風味的餐廳，評價為4.84星。此店以手工小籠包和上海小籠包聞名，並在顧客中以手工小籠包與奶茶的組合尤為受歡迎。除了小籠包與燒賣，還提供各式點心如黑饅頭和白饅頭，以及貢丸湯和魚丸湯等湯品。",
+        "address": "基隆市中山區西定路187號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/14108f89648c1366fe04aaff60fc6420/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+    },
+    {
+        "name": "唯果手作茶飲店",
+        "description": "位於基隆的唯果手作茶飲店，是一家評價為4.87星的飲料店，專注於提供各式泡沫茶飲。這裡的柳橙綠茶和綠豆殺牛奶非常受歡迎，顧客常將這兩款飲品一起點購。除此之外，紅茶拿鐵和檸檬冬瓜露也是店內的熱門選擇。夜晚是這家店最熱門的點餐時段，適合想要享受一杯特調飲品的顧客。",
+        "address": "基隆市仁愛區愛一路55號 Keelung, 仁愛區 200 Taiwan",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/6a365f566aea64c4aceb1586930a4d28/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+    },
+    {
+        "name": "My Way早午餐",
+        "description": "位於基隆的My Way早午餐是一家評價為4.98星的早午餐餐廳，專門提供豐富多樣的早餐選擇。客人特別喜愛點選奶茶和巧克力醬，並常將兩者一同訂購。餐廳提供各式沙拉、義大利麵、各類鐵板麵和蛋餅，還有不同口味的吐司和抹醬。其中經典套餐、咔啦雞腿堡、豬排總匯和青醬燻雞義大利麵都是顧客的熱門選擇。",
+        "address": "No. 90, Xiding Road",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/82e30cb7d3f8b45a4d06858b89086aae/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "林媽媽黃金炸雞",
+        "description": "位於中正的林媽媽黃金炸雞，是一家台式快餐店，以炸雞聞名，評價為4.22星。此店的人氣選擇包括腿排、雞腿及甘梅薯條(大)。顧客常一同點選的組合是雞腿和腿排。在飲料方面，提供紅茶與冬瓜茶，而炸物選項則有香雞排和花枝丸。",
+        "address": "基隆市中正區中正路441號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/d65c03c005ec9cb5b143875da5cf0b23/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+    },
+    {
+        "name": "cama café 基隆醫院店",
+        "description": "",
+        "address": "基隆市信義區信二路268號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/baa5e5ac21525aa219318eca382ad09f/30be7d11a3ed6f6183354d1933fbb6c7.jpeg"
+    },
+    {
+        "name": "魯都香 基隆西定店",
+        "description": "",
+        "address": "107, Xi Ding Rd.",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/1eb28369a1cb75782ec26bf02b1959aa/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+    },
+    {
+        "name": "11巷6號自助餐",
+        "description": "位於基隆的11巷6號自助餐，是一家專門提供台灣傳統便當的餐廳，評價為4.89星。這裡的雞腿飯便當、排骨飯便當、控肉飯便當和肉魚便當深受顧客喜愛，晚間是訂餐高峰期。除了人氣便當，還有豐富的湯品選擇，如綜合湯、貢丸湯和餛飩湯。",
+        "address": "基隆市仁愛區劉明傳路11巷6號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/33287f4c28d2bc9d9a5e00e2bf1763c7/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+    },
+    {
+        "name": "肯德基KFC漢堡 紙包雞飯專賣 基隆仁一店",
+        "description": "位於基隆的肯德基KFC漢堡廚房基隆仁一店是一家快餐類型的餐廳，提供多種美式速食料理。該店熱門的餐點包括黃金魚子海陸Q蝦堡XL套餐、上校雞塊、咔啦雞腿堡XL套餐（中辣）和青花椒香麻咔啦雞腿堡XL套餐（辣）。此外，顧客常一同點選的搭配是莫札瑞拉起司球和黃金魚子海陸Q蝦堡XL套餐。在價目表上也可以見到如咔啦雞腿堡、青花椒香麻咔啦雞腿堡和各式飲料如經典冰奶茶。",
+        "address": "基隆市仁愛區劉銘傳路1號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/9d6d426ffa5cce2800f7e59ce8d376a0/30be7d11a3ed6f6183354d1933fbb6c7.jpeg"
+    },
+    {
+        "name": "Choose one 潛艇堡",
+        "description": "位於基隆的Choose one 潛艇堡是一家健康飲食餐廳，評價為4.9星，顧客最愛在早晨時段訂購。這裡的人氣選擇包括燕麥雜糧、就是起司麵包和鄉村核桃，同時提供各式飲品如泰式奶茶和紅茶。此外，店內還有特色的潛艇堡和法式可頌等多樣化選擇。",
+        "address": "基隆市信義區義七路4號2樓",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/f559cfc77b68bc59df372a6d5d21e0a0/16bb0a3ab8ea98cfe8906135767f7bf4.jpeg"
+    },
+    {
+        "name": "古早味米粉湯大腸圈 基隆安一店",
+        "description": "位於基隆的古早味米粉湯大腸圈 基隆安一店 是一家台式餐廳，評價達4.81星，深受顧客喜愛的菜餚包括大腸圈、油豆腐、嘴巴肉和蘿蔔。這家餐廳的夜晚時段尤為熱門，顧客經常一同點選的是米粉湯和大腸圈。價目表上的湯類如豬血湯及蘿蔔湯，以及小菜如嘴巴肉和蘿蔔，都是來訪顧客的常選之選。",
+        "address": "No. 118, Anyi Road",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/25d082632980acd36cec78e6b4609637/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "今日早點 蔥油餅x餛飩x乾麵 古早味中式早餐",
+        "description": "",
+        "address": "基隆市仁愛區忠三路59號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/92bebe30e0670fa4fcbcdc79b75cc2a6/c9252e6c6cd289c588c3381bc77b1dfc.jpeg"
+    },
+    {
+        "name": "覓糖 七彩粉粿 基隆孝三店",
+        "description": "",
+        "address": "基隆市仁愛區孝三路109號1樓 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/f0f8db33010d43925df9a2986e6d5a0e/30be7d11a3ed6f6183354d1933fbb6c7.jpeg"
+    },
+    {
+        "name": "阿胖 餡餅 花蓮扁食",
+        "description": "位於基隆的阿胖餡餅花蓮扁食，是一家專門提供亞洲風味扁食的餐廳，深受當地顧客喜愛，評價高達4.83星。這裡的牛肉餡餅和豬肉餡餅極具人氣，顧客常將牛肉餡餅與蘿蔔絲餅一同點餐。此外，店內也提供特色的花蓮扁食湯和紅油炒手，是早晨最熱門的點餐時間。",
+        "address": "基隆市仁愛區孝三路58號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/cfee8aba4e03e064d0e64bd3dec468a9/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+    },
+    {
+        "name": "Ramble Cafe 漫步藍咖啡 基隆義二店",
+        "description": "位於基隆的Ramble Cafe 漫步藍咖啡 基隆義二店，是一家評價為4.87星的咖啡與茶飲店。這裡以各式咖啡和茶飲聞名，熱門飲品包括拿鐵、美式咖啡、紅茶拿鐵以及玫瑰海鹽拿鐵。顧客常點的搭配是迷迭香雞腿三明治和拿鐵。此外，店內還提供多種單品茶如錫蘭紅茶、日式烤煎茶等，以及各式手沖精品咖啡和風味茶飲品。",
+        "address": "基隆市中正區義二路38號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/4f2f5408155f67f02191b02dc1e92f8f/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "魏腐",
+        "description": "",
+        "address": "基隆市仁愛區南榮路391號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/bbc453decf41b1e4897fcfcb0ece0f9b/c9252e6c6cd289c588c3381bc77b1dfc.jpeg"
+    },
+    {
+        "name": "初沐 Coffee&Juice Bar",
+        "description": "",
+        "address": "基隆市忠二路44號1樓",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/737b89f556a9bf7a161a457a3f9e8ee0/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "三Q阿玉熱炒",
+        "description": "",
+        "address": "基隆市中正區豐稔街31號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/c6147bae5087abf915cf31d5eb7937ed/30be7d11a3ed6f6183354d1933fbb6c7.jpeg"
+    },
+    {
+        "name": "森耳露 黑木耳露",
+        "description": "位於基隆的森耳露黑木耳露，是一家專賣甜點的餐廳，以提供多款黑木耳飲品聞名，其中包括低糖和正常甜度的選項。該店最受歡迎的產品有黑木耳露（大瓶）低糖和黑木耳露（小瓶）低糖，顧客常將黑木耳露（小瓶）正常甜和黑木耳露（大瓶）低糖一起訂購。晚間是訂購高峰期，店家評價達到5.0星。",
+        "address": "基隆市仁愛區仁二路227號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/788b3e9f5a26f9798d696efb0beab039/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+    },
+    {
+        "name": "老賴茶棧 基隆廟口店",
+        "description": "位於基隆的老賴茶棧基隆廟口店是一家專賣珍珠奶茶的店鋪，評價高達4.92星，顧客通常會點購老賴紅茶和太后牛乳（紅茶+牛乳）。這家店晚間時段特別受歡迎，其人氣飲品包括老賴紅茶、豆香紅茶（手工豆漿）、太后牛乳（紅茶+牛乳）以及烏梅紅茶。除了珍珠奶茶，店內還提供多樣的飲品選擇，如抹茶和冬瓜系列飲品。",
+        "address": "基隆市仁愛區愛四路8-2號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/d691516f8ad09b01ac747374cdf60441/30be7d11a3ed6f6183354d1933fbb6c7.jpeg"
+    },
+    {
+        "name": "Subway 基隆仁愛餐廳",
+        "description": "位於基隆的Subway 基隆仁愛餐廳，是一家健康類型的餐廳，深受顧客好評，平均評價達4.8星。這裡的午餐時段特別熱門，顧客常點的美食包括6 吋鮮嫩雞柳潛艇堡、6 吋照燒雞肉潛艇堡、6 吋墨西哥辣牛潛艇堡及6 吋嫩切雞肉潛艇堡。此外，顧客也經常一同點購現烤餅乾和美式 B.L.T.捲餅。",
+        "address": "基隆市仁愛區愛二路39號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/37fc5207c5d29e5c844d47069a355706/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "CoCo都可 基隆海洋",
+        "description": "",
+        "address": "基隆市中正區中正路820號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/74ade924e9e393a0d80a47331464b9a1/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "Burger King漢堡王 基隆仁二店",
+        "description": "位於基隆的Burger King漢堡王 基隆仁二店是一家漢堡快餐店，評價為4.85星，晚間是顧客點餐的高峰時段。這裡的人氣菜單包括花生培根安格斯牛肉堡和叉燒雙層火烤牛餐，顧客常一同點選的還有花生培根脆雞堡套餐。價目表中還有各式漢堡套餐，如雙起士牛堡餐和辣味華堡套餐，還有多種小食和飲料供選擇。",
+        "address": "Ren 2nd Rd. 185",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/df558c0c34cfa17e2e7c3121818cc97d/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg"
+    },
+    {
+        "name": "食全食美",
+        "description": "位於基隆的食全食美，是一家提供豐富台灣風味便當的餐廳，評價為4.62星。此餐廳午後時段最為熱門，顧客常點選的美食包括雞腿便當、焢肉便當及佛跳牆便當。便當選項豐富，如三杯雞便當及排骨便當，並提供多樣單點與熱炒菜式，如藥膳排骨和炒板條。",
+        "address": "基隆市中正區義二路151號",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/ef5f97b7b0334eeecca8ef11103401ba/fb86662148be855d931b37d6c1e5fcbe.jpeg"
+    },
+    {
+        "name": "超群雞排鹽酥雞",
+        "description": "",
+        "address": "基隆市中正區祥豐街841號 Keelung",
+        "picture": "https://tb-static.uber.com/prod/image-proc/processed_images/f69d2c16884cdfdfdc4f21686c6393a4/c73ecc27d2a9eaa735b1ee95304ba588.jpeg"
+    }
+]

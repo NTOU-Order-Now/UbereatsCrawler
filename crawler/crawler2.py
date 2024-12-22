@@ -116,7 +116,7 @@ def main():
     store_info_list = [(i, name, home_page) for i, name in enumerate(unique_stores_name)]
     
     # 使用進程池執行爬蟲
-    with Pool(processes=8) as pool:  # 可以根據您的電腦配置調整進程數
+    with Pool(processes=24) as pool:  # 可以根據您的電腦配置調整進程數
         results = pool.map(scrape_store, store_info_list)
     
     # 過濾掉 None 結果並保存
