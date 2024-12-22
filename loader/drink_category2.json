@@ -1,0 +1,183 @@
+[
+    {
+        "name": "水蜜桃綠茶",
+        "description": "大杯。總糖量: 45克, 總熱量: 320大卡。精選水蜜桃果粒搭配清爽綠茶，清甜順口。",
+        "price": 65.0,
+        "category": "果茶系列",
+        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "溫度選擇",
+                "description": "可選擇飲品的溫度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "無糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "寒天", "extraCost": 5.0, "isChosen": false},
+                    {"name": "椰果", "extraCost": 5.0, "isChosen": false},
+                    {"name": "蘆薈", "extraCost": 8.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "柚子綠茶",
+        "description": "大杯。總糖量: 40克, 總熱量: 280大卡。新鮮柚子原汁搭配清香綠茶，微酸清爽。",
+        "price": 60.0,
+        "category": "果茶系列",
+        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "溫度選擇",
+                "description": "可選擇飲品的溫度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "溫", "extraCost": 0.0, "isChosen": false},
+                    {"name": "熱", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "無糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "愛玉", "extraCost": 10.0, "isChosen": false},
+                    {"name": "蘆薈", "extraCost": 8.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "檸檬青茶",
+        "description": "大杯。總糖量: 42克, 總熱量: 260大卡。新鮮檸檬片與清香青茶調製，酸甜清爽。",
+        "price": 55.0,
+        "category": "果茶系列",
+        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "溫度選擇",
+                "description": "可選擇飲品的溫度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "無糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "愛玉", "extraCost": 10.0, "isChosen": false},
+                    {"name": "蘆薈", "extraCost": 8.0, "isChosen": false},
+                    {"name": "寒天", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "百香綠茶",
+        "description": "大杯。總糖量: 48克, 總熱量: 300大卡。新鮮百香果榨汁，搭配清爽綠茶，酸甜可口。",
+        "price": 65.0,
+        "category": "果茶系列",
+        "picture": "https://images.pexels.com/photos/1194030/pexels-photo-1194030.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "溫度選擇",
+                "description": "可選擇飲品的溫度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "無糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "椰果", "extraCost": 5.0, "isChosen": false},
+                    {"name": "寒天", "extraCost": 5.0, "isChosen": false},
+                    {"name": "蘆薈", "extraCost": 8.0, "isChosen": false}
+                ]
+            }
+        ]
+    }
+]

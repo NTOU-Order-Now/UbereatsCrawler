@@ -1,0 +1,166 @@
+[
+    {
+        "name": "抹茶冰沙",
+        "description": "大杯。總糖量: 52克, 總熱量: 420大卡。使用日本京都抹茶粉，搭配香草冰淇淋製成，濃郁滑順。",
+        "price": 85.0,
+        "category": "冰沙系列",
+        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg??auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "冰量選擇",
+                "description": "可選擇冰沙的冰量",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "紅豆", "extraCost": 10.0, "isChosen": false},
+                    {"name": "抹茶凍", "extraCost": 15.0, "isChosen": false},
+                    {"name": "布丁", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "巧克力冰沙",
+        "description": "大杯。總糖量: 58克, 總熱量: 480大卡。比利時進口巧克力，搭配香草冰淇淋，香濃順滑。",
+        "price": 80.0,
+        "category": "冰沙系列",
+        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg??auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "冰量選擇",
+                "description": "可選擇冰沙的冰量",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "巧克力碎片", "extraCost": 10.0, "isChosen": false},
+                    {"name": "棉花糖", "extraCost": 8.0, "isChosen": false},
+                    {"name": "布丁", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "芒果冰沙",
+        "description": "大杯。總糖量: 50克, 總熱量: 380大卡。使用台灣愛文芒果，搭配香草冰淇淋，清甜爽口。",
+        "price": 90.0,
+        "category": "冰沙系列",
+        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg??auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "冰量選擇",
+                "description": "可選擇冰沙的冰量",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "芒果果粒", "extraCost": 15.0, "isChosen": false},
+                    {"name": "西米露", "extraCost": 10.0, "isChosen": false},
+                    {"name": "椰果", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "草莓優格冰沙",
+        "description": "大杯。總糖量: 45克, 總熱量: 360大卡。新鮮草莓果泥搭配希臘優格，清爽不膩。",
+        "price": 85.0,
+        "category": "冰沙系列",
+        "picture": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg??auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "冰量選擇",
+                "description": "可選擇冰沙的冰量",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "草莓果粒", "extraCost": 15.0, "isChosen": false},
+                    {"name": "藍莓", "extraCost": 15.0, "isChosen": false},
+                    {"name": "燕麥", "extraCost": 8.0, "isChosen": false}
+                ]
+            }
+        ]
+    }
+]

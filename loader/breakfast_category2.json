@@ -1,0 +1,207 @@
+[
+    {
+        "name": "原味蛋餅",
+        "description": "使用特製蛋餅皮，搭配新鮮雞蛋，簡單即是美味。熱量: 220大卡。",
+        "price": 35.0,
+        "category": "蛋餅系列",
+        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "蛋餅皮選擇",
+                "description": "可選擇蛋餅皮種類",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "傳統", "extraCost": 0.0, "isChosen": false},
+                    {"name": "薄脆", "extraCost": 0.0, "isChosen": false},
+                    {"name": "手工", "extraCost": 5.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "內餡熟度",
+                "description": "可選擇蛋的熟度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全熟", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半熟", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "醬料選擇",
+                "description": "可選擇醬料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "蛋餅醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "甜辣醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "黑胡椒醬", "extraCost": 0.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "培根蛋餅",
+        "description": "香酥培根搭配新鮮雞蛋，鹹香美味。熱量: 320大卡。",
+        "price": 45.0,
+        "category": "蛋餅系列",
+        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "蛋餅皮選擇",
+                "description": "可選擇蛋餅皮種類",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "傳統", "extraCost": 0.0, "isChosen": false},
+                    {"name": "薄脆", "extraCost": 0.0, "isChosen": false},
+                    {"name": "手工", "extraCost": 5.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "內餡熟度",
+                "description": "可選擇蛋的熟度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全熟", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半熟", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加起司", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加培根", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加生菜", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "起司蛋餅",
+        "description": "濃郁起司配上新鮮雞蛋，牽絲起司超滿足。熱量: 300大卡。",
+        "price": 45.0,
+        "category": "蛋餅系列",
+        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "蛋餅皮選擇",
+                "description": "可選擇蛋餅皮種類",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "傳統", "extraCost": 0.0, "isChosen": false},
+                    {"name": "薄脆", "extraCost": 0.0, "isChosen": false},
+                    {"name": "手工", "extraCost": 5.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "內餡熟度",
+                "description": "可選擇蛋的熟度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全熟", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半熟", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加起司", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加火腿", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加玉米", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "玉米蛋餅",
+        "description": "清甜玉米粒搭配新鮮雞蛋，營養美味。熱量: 280大卡。",
+        "price": 40.0,
+        "category": "蛋餅系列",
+        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "蛋餅皮選擇",
+                "description": "可選擇蛋餅皮種類",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "傳統", "extraCost": 0.0, "isChosen": false},
+                    {"name": "薄脆", "extraCost": 0.0, "isChosen": false},
+                    {"name": "手工", "extraCost": 5.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "內餡熟度",
+                "description": "可選擇蛋的熟度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全熟", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半熟", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加起司", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加玉米", "extraCost": 5.0, "isChosen": false},
+                    {"name": "加火腿", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "肉鬆蛋餅",
+        "description": "特製豬肉鬆搭配新鮮雞蛋，香鬆可口。熱量: 310大卡。",
+        "price": 45.0,
+        "category": "蛋餅系列",
+        "picture": "https://images.pexels.com/photos/103124/pexels-photo-103124.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "蛋餅皮選擇",
+                "description": "可選擇蛋餅皮種類",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "傳統", "extraCost": 0.0, "isChosen": false},
+                    {"name": "薄脆", "extraCost": 0.0, "isChosen": false},
+                    {"name": "手工", "extraCost": 5.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "內餡熟度",
+                "description": "可選擇蛋的熟度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全熟", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半熟", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加肉鬆", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加起司", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加海苔", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    }
+]

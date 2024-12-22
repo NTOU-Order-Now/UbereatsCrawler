@@ -1,0 +1,217 @@
+[
+    {
+        "name": "經典牛肉漢堡",
+        "description": "使用100%紐西蘭進口牛肉製成的漢堡排，搭配新鮮生菜、番茄、起司和特製漢堡醬。熱量: 680大卡。",
+        "price": 120.0,
+        "category": "漢堡系列",
+        "picture": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "漢堡排熟度",
+                "description": "可選擇牛肉的熟度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全熟", "extraCost": 0.0, "isChosen": false},
+                    {"name": "七分熟", "extraCost": 0.0, "isChosen": false},
+                    {"name": "五分熟", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "醬料選擇",
+                "description": "可選擇漢堡醬料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "蒜香美乃滋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "煙燻醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "黑胡椒醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "千島醬", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加起司片", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加培根", "extraCost": 20.0, "isChosen": false},
+                    {"name": "加酪梨", "extraCost": 25.0, "isChosen": false},
+                    {"name": "加生菜", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "雙層起司漢堡",
+        "description": "雙層紐西蘭進口牛肉排，雙層切達起司，搭配酥脆萵苣、番茄和秘製起司醬。熱量: 880大卡。",
+        "price": 150.0,
+        "category": "漢堡系列",
+        "picture": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "漢堡排熟度",
+                "description": "可選擇牛肉的熟度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全熟", "extraCost": 0.0, "isChosen": false},
+                    {"name": "七分熟", "extraCost": 0.0, "isChosen": false},
+                    {"name": "五分熟", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "醬料選擇",
+                "description": "可選擇漢堡醬料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "起司醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蒜香美乃滋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "黑胡椒醬", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加起司片", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加培根", "extraCost": 20.0, "isChosen": false},
+                    {"name": "加生菜", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加洋蔥", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "香脆炸雞漢堡",
+        "description": "使用特製醃料醃製的雞胸肉，金黃酥脆，搭配生菜、番茄和香辣美乃滋。熱量: 580大卡。",
+        "price": 110.0,
+        "category": "漢堡系列",
+        "picture": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "辣度選擇",
+                "description": "可選擇辣度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "不辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "小辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "中辣", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "醬料選擇",
+                "description": "可選擇漢堡醬料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "香辣美乃滋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蒜香美乃滋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "塔塔醬", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加起司片", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加生菜", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加番茄", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加酪梨", "extraCost": 25.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "香烤魚排漢堡",
+        "description": "使用新鮮鱈魚排，清爽不油膩，搭配生菜、番茄和特製塔塔醬。熱量: 520大卡。",
+        "price": 130.0,
+        "category": "漢堡系列",
+        "picture": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "烤製方式",
+                "description": "可選擇烤製方式",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "香煎", "extraCost": 0.0, "isChosen": false},
+                    {"name": "炭烤", "extraCost": 10.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "醬料選擇",
+                "description": "可選擇漢堡醬料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "塔塔醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "千島醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蒜香美乃滋", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加起司片", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加生菜", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加番茄", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加洋蔥", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "素食漢堡",
+        "description": "使用Beyond Meat未來肉排，搭配生菜、番茄、酪梨和特製蔬食醬。熱量: 480大卡。",
+        "price": 140.0,
+        "category": "漢堡系列",
+        "picture": "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "素食種類",
+                "description": "可選擇素食種類",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全素", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蛋奶素", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "醬料選擇",
+                "description": "可選擇漢堡醬料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "蔬食醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "芥末醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "番茄醬", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加素起司", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加生菜", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加番茄", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加酪梨", "extraCost": 25.0, "isChosen": false},
+                    {"name": "加烤蘑菇", "extraCost": 20.0, "isChosen": false}
+                ]
+            }
+        ]
+    }
+]

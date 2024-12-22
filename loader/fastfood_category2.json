@@ -1,0 +1,135 @@
+[
+    {
+        "name": "香脆炸雞腿",
+        "description": "使用台灣土雞腿，特製醃料醃製24小時，金黃酥脆，多汁不乾柴。份量: 2塊雞腿。熱量: 680大卡。",
+        "price": 150.0,
+        "category": "炸雞系列",
+        "picture": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "辣度選擇",
+                "description": "可選擇辣度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "不辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "小辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "中辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "大辣", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "口味選擇",
+                "description": "可選擇口味",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "原味", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蒜香", "extraCost": 0.0, "isChosen": false},
+                    {"name": "韓式醬油", "extraCost": 10.0, "isChosen": false},
+                    {"name": "泰式酸辣", "extraCost": 10.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "配醬選擇",
+                "description": "可選擇沾醬",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "蒜味美乃滋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "塔塔醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "甜辣醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蜂蜜芥末醬", "extraCost": 0.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "香酥炸雞翅",
+        "description": "精選鮮嫩雞翅，特製胡椒粉調味，外酥內嫩。份量: 6塊翅小腿。熱量: 520大卡。",
+        "price": 140.0,
+        "category": "炸雞系列",
+        "picture": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "辣度選擇",
+                "description": "可選擇辣度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "不辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "小辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "中辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "大辣", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "口味選擇",
+                "description": "可選擇口味",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "原味", "extraCost": 0.0, "isChosen": false},
+                    {"name": "黑胡椒", "extraCost": 0.0, "isChosen": false},
+                    {"name": "韓式辣醬", "extraCost": 10.0, "isChosen": false},
+                    {"name": "香辣咖哩", "extraCost": 10.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "配醬選擇",
+                "description": "可選擇沾醬",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "蒜味美乃滋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "BBQ醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "甜辣醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蜂蜜芥末醬", "extraCost": 0.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "雞米花拼盤",
+        "description": "使用純雞胸肉製成，口感酥脆，配上特製醬料更美味。份量: 12塊雞米花。熱量: 450大卡。",
+        "price": 120.0,
+        "category": "炸雞系列",
+        "picture": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "辣度選擇",
+                "description": "可選擇辣度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "不辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "小辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "中辣", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "口味選擇",
+                "description": "可選擇口味",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "原味", "extraCost": 0.0, "isChosen": false},
+                    {"name": "香蒜", "extraCost": 0.0, "isChosen": false},
+                    {"name": "起司", "extraCost": 10.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "配醬選擇",
+                "description": "可選擇沾醬",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "蒜味美乃滋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蕃茄醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "甜辣醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "起司醬", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    }
+]

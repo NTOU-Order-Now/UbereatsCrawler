@@ -1,0 +1,157 @@
+[
+    {
+        "name": "花生醬厚片吐司",
+        "description": "使用日本進口生吐司，搭配香濃花生醬，口感綿密香甜。熱量: 320大卡。",
+        "price": 45.0,
+        "category": "吐司系列",
+        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "吐司熟度",
+                "description": "可選擇吐司烤製程度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "微烤", "extraCost": 0.0, "isChosen": false},
+                    {"name": "正常", "extraCost": 0.0, "isChosen": false},
+                    {"name": "酥脆", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "特製選擇",
+                "description": "可選擇特製配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加花生醬", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加奶油", "extraCost": 5.0, "isChosen": false},
+                    {"name": "加煉乳", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "奶油糖片吐司",
+        "description": "香濃奶油搭配細糖，外酥內軟。熱量: 280大卡。",
+        "price": 35.0,
+        "category": "吐司系列",
+        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "吐司熟度",
+                "description": "可選擇吐司烤製程度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "微烤", "extraCost": 0.0, "isChosen": false},
+                    {"name": "正常", "extraCost": 0.0, "isChosen": false},
+                    {"name": "酥脆", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "特製選擇",
+                "description": "可選擇特製配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加奶油", "extraCost": 5.0, "isChosen": false},
+                    {"name": "加糖粉", "extraCost": 5.0, "isChosen": false},
+                    {"name": "加煉乳", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "蒜香奶酥厚片",
+        "description": "特製蒜味奶酥醬，搭配香烤厚片吐司。熱量: 350大卡。",
+        "price": 50.0,
+        "category": "吐司系列",
+        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "吐司熟度",
+                "description": "可選擇吐司烤製程度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "微烤", "extraCost": 0.0, "isChosen": false},
+                    {"name": "正常", "extraCost": 0.0, "isChosen": false},
+                    {"name": "酥脆", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "特製選擇",
+                "description": "可選擇特製配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加蒜醬", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加起司", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加奶油", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "巧克力厚片吐司",
+        "description": "使用比利時進口巧克力醬，香濃可可風味。熱量: 380大卡。",
+        "price": 45.0,
+        "category": "吐司系列",
+        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "吐司熟度",
+                "description": "可選擇吐司烤製程度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "微烤", "extraCost": 0.0, "isChosen": false},
+                    {"name": "正常", "extraCost": 0.0, "isChosen": false},
+                    {"name": "酥脆", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "特製選擇",
+                "description": "可選擇特製配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加巧克力醬", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加奶油", "extraCost": 5.0, "isChosen": false},
+                    {"name": "加煉乳", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "肉鬆奶酥吐司",
+        "description": "特製豬肉鬆搭配奶酥醬，鹹甜適中。熱量: 360大卡。",
+        "price": 55.0,
+        "category": "吐司系列",
+        "picture": "https://images.pexels.com/photos/1647163/pexels-photo-1647163.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "吐司熟度",
+                "description": "可選擇吐司烤製程度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "微烤", "extraCost": 0.0, "isChosen": false},
+                    {"name": "正常", "extraCost": 0.0, "isChosen": false},
+                    {"name": "酥脆", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "特製選擇",
+                "description": "可選擇特製配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加肉鬆", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加起司", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加美乃滋", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,211 @@
+[
+    {
+        "name": "燒餅油條",
+        "description": "外皮金黃酥脆的燒餅，搭配香酥的油條，經典美味。熱量: 350大卡。",
+        "price": 45.0,
+        "category": "中式餅類",
+        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "燒餅口味",
+                "description": "可選擇燒餅口味",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "原味", "extraCost": 0.0, "isChosen": false},
+                    {"name": "芝麻", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蔥花", "extraCost": 5.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "油條選擇",
+                "description": "可選擇油條數量",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "單條", "extraCost": 0.0, "isChosen": false},
+                    {"name": "雙條", "extraCost": 15.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加蛋", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加肉鬆", "extraCost": 10.0, "isChosen": false},
+                    {"name": "加韭菜", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "蔥油餅",
+        "description": "手工揉製的餅皮，搭配新鮮蔥花，層次豐富。熱量: 320大卡。",
+        "price": 35.0,
+        "category": "中式餅類",
+        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "口味選擇",
+                "description": "可選擇口味",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "原味", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蒜香", "extraCost": 5.0, "isChosen": false},
+                    {"name": "辣味", "extraCost": 5.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "烤製程度",
+                "description": "可選擇烤製程度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "微焦", "extraCost": 0.0, "isChosen": false},
+                    {"name": "正常", "extraCost": 0.0, "isChosen": false},
+                    {"name": "酥脆", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加蛋", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加起司", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加蔥花", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "韭菜盒子",
+        "description": "新鮮韭菜搭配雞蛋，外皮酥脆，內餡香嫩。熱量: 280大卡。",
+        "price": 40.0,
+        "category": "中式餅類",
+        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "口味選擇",
+                "description": "可選擇口味",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "韭菜雞蛋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "韭菜豬肉", "extraCost": 5.0, "isChosen": false},
+                    {"name": "韭菜蝦仁", "extraCost": 10.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "烤製程度",
+                "description": "可選擇烤製程度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "微焦", "extraCost": 0.0, "isChosen": false},
+                    {"name": "正常", "extraCost": 0.0, "isChosen": false},
+                    {"name": "酥脆", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "調味選擇",
+                "description": "可選擇調味料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "辣醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蒜醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "醋", "extraCost": 0.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "蘿蔔絲餅",
+        "description": "手工製作的餅皮，包裹清甜蘿蔔絲，外酥內軟。熱量: 260大卡。",
+        "price": 35.0,
+        "category": "中式餅類",
+        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "口味選擇",
+                "description": "可選擇口味",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "原味", "extraCost": 0.0, "isChosen": false},
+                    {"name": "胡椒", "extraCost": 0.0, "isChosen": false},
+                    {"name": "香辣", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "烤製程度",
+                "description": "可選擇烤製程度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "微焦", "extraCost": 0.0, "isChosen": false},
+                    {"name": "正常", "extraCost": 0.0, "isChosen": false},
+                    {"name": "酥脆", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加蔥花", "extraCost": 5.0, "isChosen": false},
+                    {"name": "加胡蘿蔔絲", "extraCost": 5.0, "isChosen": false},
+                    {"name": "加辣椒", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "咖哩餃",
+        "description": "特製咖哩餡料，外皮酥脆，風味獨特。熱量: 300大卡。",
+        "price": 45.0,
+        "category": "中式餅類",
+        "picture": "https://images.pexels.com/photos/139746/pexels-photo-139746.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "口味選擇",
+                "description": "可選擇口味",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "咖哩雞肉", "extraCost": 0.0, "isChosen": false},
+                    {"name": "咖哩牛肉", "extraCost": 5.0, "isChosen": false},
+                    {"name": "咖哩蔬菜", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "辣度選擇",
+                "description": "可選擇辣度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "不辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "小辣", "extraCost": 0.0, "isChosen": false},
+                    {"name": "中辣", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "醬料選擇",
+                "description": "可選擇醬料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "甜辣醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "蒜醬", "extraCost": 0.0, "isChosen": false},
+                    {"name": "咖哩醬", "extraCost": 5.0, "isChosen": false}
+                ]
+            }
+        ]
+    }
+]

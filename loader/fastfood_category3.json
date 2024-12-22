@@ -1,0 +1,216 @@
+[
+    {
+        "name": "夏威夷披薩",
+        "description": "經典夏威夷風味，使用義大利進口莫札瑞拉起司，搭配特選火腿與鳳梨。9吋。熱量: 1200大卡。",
+        "price": 260.0,
+        "category": "披薩系列",
+        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "尺寸選擇",
+                "description": "可選擇披薩大小",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "6吋", "extraCost": -60.0, "isChosen": false},
+                    {"name": "9吋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "12吋", "extraCost": 100.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "餅皮選擇",
+                "description": "可選擇餅皮厚度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "薄皮", "extraCost": 0.0, "isChosen": false},
+                    {"name": "標準", "extraCost": 0.0, "isChosen": false},
+                    {"name": "厚皮", "extraCost": 20.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加起司", "extraCost": 30.0, "isChosen": false},
+                    {"name": "加火腿", "extraCost": 35.0, "isChosen": false},
+                    {"name": "加鳳梨", "extraCost": 25.0, "isChosen": false},
+                    {"name": "加青椒", "extraCost": 20.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "瑪格麗特披薩",
+        "description": "義式經典，使用新鮮蕃茄、羅勒葉與水牛莫札瑞拉起司。9吋。熱量: 980大卡。",
+        "price": 280.0,
+        "category": "披薩系列",
+        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "尺寸選擇",
+                "description": "可選擇披薩大小",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "6吋", "extraCost": -60.0, "isChosen": false},
+                    {"name": "9吋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "12吋", "extraCost": 100.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "餅皮選擇",
+                "description": "可選擇餅皮厚度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "薄皮", "extraCost": 0.0, "isChosen": false},
+                    {"name": "標準", "extraCost": 0.0, "isChosen": false},
+                    {"name": "厚皮", "extraCost": 20.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加起司", "extraCost": 30.0, "isChosen": false},
+                    {"name": "加蕃茄", "extraCost": 20.0, "isChosen": false},
+                    {"name": "加羅勒", "extraCost": 15.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "海鮮總匯披薩",
+        "description": "豐富海鮮配料，包含蝦仁、魷魚、淡菜，搭配特製白醬。9吋。熱量: 1350大卡。",
+        "price": 320.0,
+        "category": "披薩系列",
+        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "尺寸選擇",
+                "description": "可選擇披薩大小",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "6吋", "extraCost": -60.0, "isChosen": false},
+                    {"name": "9吋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "12吋", "extraCost": 100.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "餅皮選擇",
+                "description": "可選擇餅皮厚度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "薄皮", "extraCost": 0.0, "isChosen": false},
+                    {"name": "標準", "extraCost": 0.0, "isChosen": false},
+                    {"name": "厚皮", "extraCost": 20.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加起司", "extraCost": 30.0, "isChosen": false},
+                    {"name": "加蝦仁", "extraCost": 45.0, "isChosen": false},
+                    {"name": "加魷魚", "extraCost": 40.0, "isChosen": false},
+                    {"name": "加蒜末", "extraCost": 15.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "義式臘腸披薩",
+        "description": "使用進口義式臘腸，搭配蘑菇、青椒與莫札瑞拉起司。9吋。熱量: 1280大卡。",
+        "price": 290.0,
+        "category": "披薩系列",
+        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "尺寸選擇",
+                "description": "可選擇披薩大小",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "6吋", "extraCost": -60.0, "isChosen": false},
+                    {"name": "9吋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "12吋", "extraCost": 100.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "餅皮選擇",
+                "description": "可選擇餅皮厚度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "薄皮", "extraCost": 0.0, "isChosen": false},
+                    {"name": "標準", "extraCost": 0.0, "isChosen": false},
+                    {"name": "厚皮", "extraCost": 20.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加起司", "extraCost": 30.0, "isChosen": false},
+                    {"name": "加臘腸", "extraCost": 40.0, "isChosen": false},
+                    {"name": "加蘑菇", "extraCost": 25.0, "isChosen": false},
+                    {"name": "加青椒", "extraCost": 20.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "四種起司披薩",
+        "description": "豪華起司組合，包含莫札瑞拉、高達、帕瑪森、藍紋起司。9吋。熱量: 1400大卡。",
+        "price": 300.0,
+        "category": "披薩系列",
+        "picture": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "尺寸選擇",
+                "description": "可選擇披薩大小",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "6吋", "extraCost": -60.0, "isChosen": false},
+                    {"name": "9吋", "extraCost": 0.0, "isChosen": false},
+                    {"name": "12吋", "extraCost": 100.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "餅皮選擇",
+                "description": "可選擇餅皮厚度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "薄皮", "extraCost": 0.0, "isChosen": false},
+                    {"name": "標準", "extraCost": 0.0, "isChosen": false},
+                    {"name": "厚皮", "extraCost": 20.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "加莫札瑞拉", "extraCost": 30.0, "isChosen": false},
+                    {"name": "加帕瑪森", "extraCost": 35.0, "isChosen": false},
+                    {"name": "加蒜末", "extraCost": 15.0, "isChosen": false},
+                    {"name": "加黑胡椒", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    }
+]

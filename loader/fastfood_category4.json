@@ -1,0 +1,98 @@
+[
+    {
+        "name": "可樂",
+        "description": "經典可口可樂，清涼暢快。大杯。總糖量: 39克, 總熱量: 140大卡。",
+        "price": 35.0,
+        "category": "碳酸飲料系列",
+        "picture": "https://images.pexels.com/photos/2983100/pexels-photo-2983100.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "容量選擇",
+                "description": "可選擇飲品容量",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "中杯 (480ml)", "extraCost": -5.0, "isChosen": false},
+                    {"name": "大杯 (600ml)", "extraCost": 0.0, "isChosen": false},
+                    {"name": "超大杯 (800ml)", "extraCost": 10.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "冰塊選擇",
+                "description": "可選擇冰塊多寡",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "雪碧",
+        "description": "清新檸檬口味，冰涼清爽。大杯。總糖量: 37克, 總熱量: 130大卡。",
+        "price": 35.0,
+        "category": "碳酸飲料系列",
+        "picture": "https://images.pexels.com/photos/2983100/pexels-photo-2983100.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "容量選擇",
+                "description": "可選擇飲品容量",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "中杯 (480ml)", "extraCost": -5.0, "isChosen": false},
+                    {"name": "大杯 (600ml)", "extraCost": 0.0, "isChosen": false},
+                    {"name": "超大杯 (800ml)", "extraCost": 10.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "冰塊選擇",
+                "description": "可選擇冰塊多寡",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "芬達",
+        "description": "香甜橘子口味，清涼解渴。大杯。總糖量: 41克, 總熱量: 150大卡。",
+        "price": 35.0,
+        "category": "碳酸飲料系列",
+        "picture": "https://images.pexels.com/photos/2983100/pexels-photo-2983100.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "容量選擇",
+                "description": "可選擇飲品容量",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "中杯 (480ml)", "extraCost": -5.0, "isChosen": false},
+                    {"name": "大杯 (600ml)", "extraCost": 0.0, "isChosen": false},
+                    {"name": "超大杯 (800ml)", "extraCost": 10.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "冰塊選擇",
+                "description": "可選擇冰塊多寡",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false}
+                ]
+            }
+        ]
+    }
+]

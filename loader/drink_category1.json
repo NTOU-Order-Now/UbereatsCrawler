@@ -1,0 +1,233 @@
+[
+    {
+        "name": "經典奶茶",
+        "description": "大杯。總糖量: 65克, 總熱量: 650大卡。使用斯里蘭卡進口錫蘭紅茶，搭配進口奶精調製，香醇濃郁。",
+        "price": 55.0,
+        "category": "奶茶系列",
+        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "溫度選擇",
+                "description": "可選擇飲品的溫度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "溫", "extraCost": 0.0, "isChosen": false},
+                    {"name": "熱", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "無糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "珍珠", "extraCost": 5.0, "isChosen": false},
+                    {"name": "椰果", "extraCost": 5.0, "isChosen": false},
+                    {"name": "小珍珠", "extraCost": 5.0, "isChosen": false},
+                    {"name": "咖啡凍", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "黑糖珍珠鮮奶",
+        "description": "大杯。總糖量: 68克, 總熱量: 700大卡。使用台灣在地黑糖，搭配香Q珍珠與純鮮奶，口感層次豐富。",
+        "price": 65.0,
+        "category": "奶茶系列",
+        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "溫度選擇",
+                "description": "可選擇飲品的溫度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "椰果", "extraCost": 5.0, "isChosen": false},
+                    {"name": "布丁", "extraCost": 10.0, "isChosen": false},
+                    {"name": "奶霜", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "抹茶拿鐵",
+        "description": "大杯。總糖量: 55克, 總熱量: 580大卡。使用日本京都抹茶粉，搭配澳洲進口鮮奶，清新回甘。",
+        "price": 70.0,
+        "category": "奶茶系列",
+        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "溫度選擇",
+                "description": "可選擇飲品的溫度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "溫", "extraCost": 0.0, "isChosen": false},
+                    {"name": "熱", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "無糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "紅豆", "extraCost": 10.0, "isChosen": false},
+                    {"name": "珍珠", "extraCost": 5.0, "isChosen": false},
+                    {"name": "布丁", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "泰式奶茶",
+        "description": "大杯。總糖量: 70克, 總熱量: 680大卡。使用泰國進口茶葉，搭配特調奶精，香醇濃郁。",
+        "price": 60.0,
+        "category": "奶茶系列",
+        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "溫度選擇",
+                "description": "可選擇飲品的溫度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "溫", "extraCost": 0.0, "isChosen": false},
+                    {"name": "熱", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "珍珠", "extraCost": 5.0, "isChosen": false},
+                    {"name": "椰果", "extraCost": 5.0, "isChosen": false},
+                    {"name": "布丁", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    },
+    {
+        "name": "鮮奶茶",
+        "description": "大杯。總糖量: 58克, 總熱量: 580大卡。採用日月潭紅茶搭配澳洲進口鮮奶，香醇順口。",
+        "price": 65.0,
+        "category": "奶茶系列",
+        "picture": "https://images.pexels.com/photos/5946975/pexels-photo-5946975.jpeg?auto=compress&h=272&w=181",
+        "dishAttributes": [
+            {
+                "name": "溫度選擇",
+                "description": "可選擇飲品的溫度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "正常冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "去冰", "extraCost": 0.0, "isChosen": false},
+                    {"name": "溫", "extraCost": 0.0, "isChosen": false},
+                    {"name": "熱", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "甜度選擇",
+                "description": "根據個人口味調整甜度",
+                "type": "single",
+                "isRequired": true,
+                "attributeOptions": [
+                    {"name": "全糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "少糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "半糖", "extraCost": 0.0, "isChosen": false},
+                    {"name": "微糖", "extraCost": 0.0, "isChosen": false}
+                ]
+            },
+            {
+                "name": "加料選擇",
+                "description": "可選擇額外配料提升口感",
+                "type": "multiple",
+                "isRequired": false,
+                "attributeOptions": [
+                    {"name": "珍珠", "extraCost": 5.0, "isChosen": false},
+                    {"name": "椰果", "extraCost": 5.0, "isChosen": false},
+                    {"name": "布丁", "extraCost": 10.0, "isChosen": false}
+                ]
+            }
+        ]
+    }
+]
