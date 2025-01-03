@@ -15,7 +15,8 @@ def set_register_data(role, i):
         'email': f'{name}@gmail.com',
         'password': name,
         'phoneNumber': '0912345678',
-        'role': role.upper()
+        'role': role.upper(),
+        'loginType': 'LOCAL'
     }
 
 def set_login_data(role, i):
@@ -209,7 +210,7 @@ def main():
     # 使用進程池處理顧客評論
     with Pool(processes=10) as pool:
         # 準備參數
-        customer_args = [(i, storeIds) for i in range(30)]
+        customer_args = [(i, storeIds) for i in range(50)]
         # 執行顧客處理
         pool.map(process_customer, customer_args)
 

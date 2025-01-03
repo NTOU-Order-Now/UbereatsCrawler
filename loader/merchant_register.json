@@ -3,5 +3,6 @@
     "email": "merchant@gmail.com",
     "password": "merchant",
     "phoneNumber": "0912345678",
-    "role": "MERCHANT"
+    "role": "MERCHANT",
+    "loginType": "LOCAL"
 }

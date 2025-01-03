@@ -14,7 +14,8 @@ def set_register_data(role, i):
         'email': f'{name}@gmail.com',
         'password': name,
         'phoneNumber': '0912345678',
-        'role': role.upper()
+        'role': role.upper(),
+        'loginType': 'LOCAL'
     }
 
 def set_login_data(role, i):
@@ -183,15 +184,15 @@ for i in range(0, 50):
             update_dish(token, menuId, dishId, dish)
 
 
-for i in range(0, 30):
+for i in range(0, 10):
     # customer register and login
     register(set_register_data('customer', i))
     [token, storeId] = login(set_login_data('customer', i))
     
     # add review to store
     number = random.randint(15, 40)
-    start = random.randint(0, 49)
+    start = random.randint(0, len(storeIds)-1)
     for j in range(number):
-        now = (start + j) % 50
+        now = (start + j) % len(storeIds)
         add_review_to_store(token, storeIds[now], create_review())
         
